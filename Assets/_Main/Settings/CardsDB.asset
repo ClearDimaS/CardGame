@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104977c3087cc45e699008c072d0037b, type: 3}
+  m_Name: CardsDB
+  m_EditorClassIdentifier: 
+  currentIndex: 5
+  elementsList:
+  - attack: 2
+    manaCost: 4
+    maxHealth: 3
+    description: Desription1
+    title: Title1
+  - attack: 7
+    manaCost: 6
+    maxHealth: 5
+    description: Desription2
+    title: Title2
+  - attack: 7
+    manaCost: 6
+    maxHealth: 2
+    description: Desription3
+    title: Title3
+  - attack: 8
+    manaCost: 2
+    maxHealth: 4
+    description: Desription4
+    title: Title4
+  - attack: 5
+    manaCost: 7
+    maxHealth: 2
+    description: Desription5
+    title: Title5
+  - attack: 4
+    manaCost: 8
+    maxHealth: 2
+    description: Desription6
+    title: Title6
+  currentElement:
+    attack: 4
+    manaCost: 8
+    maxHealth: 2
+    description: Desription6
+    title: Title6
